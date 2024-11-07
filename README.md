@@ -4,6 +4,6 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,vscode,threejs,nodejs,npm,git,arduino,ps,blender,tensorflow,arduino&perline=6" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,vscode,threejs,nodejs,npm,git,arduino,ps,blender,tensorflow,arduino&perline=8" alt="My Skills" />
   </a>
 </p>
