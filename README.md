@@ -37,6 +37,4 @@ I'm also working in escaperoom so it's very usefull to know this and i love it
 
 ### Stats
 
-<span>
-<img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukasRevol&show_icons=true&locale=en&layout=compact&theme=transparent" alt="vermenea" /> 
-</span>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
