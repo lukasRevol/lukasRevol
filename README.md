@@ -4,9 +4,29 @@
 ### Languages and tools i use
 
 #### WEB
-
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,vscode,threejs,nodejs,npm,git,arduino,ps,blender,tensorflow,arduino&perline=8" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,vscode,threejs,nodejs,npm" alt="My Skills" />
+  </a>
+</p>
+
+#### Graphic
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,blender,ai" alt="My Skills at web development" />
+  </a>
+</p>
+
+#### AI
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow" alt="My Skills AI" />
+  </a>
+</p>
+
+#### Electronic
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,c" alt="My Skills at electronic" />
   </a>
 </p>
