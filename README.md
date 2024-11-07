@@ -1,4 +1,5 @@
-## Hi, I'm Łukasz Leśniewski. I'm a frontend developer but i also like to play with electronics.
+# Hi, I'm Łukasz Leśniewski. 
+## I'm a frontend developer but i also like to play with electronics.
 
 ### Languages and tools i use
 
