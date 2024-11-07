@@ -2,7 +2,7 @@
 
 ### Languages and tools i use
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="css3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
           
 <!--
 **lukasRevol/lukasRevol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
