@@ -4,6 +4,7 @@
 ### Languages and tools i use
 
 #### WEB
+Thats what i do mst od the time
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,vscode,threejs,nodejs,npm" alt="My Skills" />
