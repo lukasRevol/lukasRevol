@@ -34,7 +34,3 @@ I'm also working in escaperoom so it's very usefull to know this and i love it
     <img src="https://skillicons.dev/icons?i=arduino,c" alt="My Skills at electronic" />
   </a>
 </p>
-
-### Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasRevol)](https://github.com/anuraghazra/github-readme-stats)
