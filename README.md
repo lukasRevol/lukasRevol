@@ -15,7 +15,7 @@ Thats what i do most of the time
 This tools help me with webdev
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,blender,ai,figma" alt="My Skills at web development" />
+    <img src="https://skillicons.dev/icons?i=ps,blender,ai" alt="My Skills at web development" />
   </a>
 </p>
 
