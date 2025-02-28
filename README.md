@@ -23,7 +23,7 @@ This tools help me with webdev
 I'm also working in escaperoom so it's very usefull to know this and i love it
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,cs" alt="My Skills at electronic" />
+    <img src="https://skillicons.dev/icons?i=arduino,c" alt="My Skills at electronic" />
   </a>
 </p>
 
@@ -31,6 +31,6 @@ I'm also working in escaperoom so it's very usefull to know this and i love it
 I'm nt good with it, but it's making me happy
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot,csharp" alt="My Skills at electronic" />
+    <img src="https://skillicons.dev/icons?i=godot,cs" alt="My Skills at electronic" />
   </a>
 </p>
