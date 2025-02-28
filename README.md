@@ -15,7 +15,7 @@ Thats what i do most of the time
 This tools help me with webdev
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ai" alt="My Skills at web development" />
+    <img src="https://skillicons.dev/icons?i=ps,ai,figma" alt="My Skills at web development" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@ This tools help me with webdev
 I'm also working in escaperoom so it's very usefull to know this and i love it
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,c" alt="My Skills at electronic" />
+    <img src="https://skillicons.dev/icons?i=arduino,cs" alt="My Skills at electronic" />
   </a>
 </p>
 
