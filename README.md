@@ -1,5 +1,5 @@
 # Hi, I'm Łukasz Leśniewski. 
-## I'm a frontend developer but i also like to play with electronics, AI and 3D printing.
+## I'm a frontend developer but i also like to play with electronics, GameDev.
 
 ### Languages and tools i use
 
@@ -28,7 +28,7 @@ I'm also working in escaperoom so it's very usefull to know this and i love it
 </p>
 
 #### GameDev
-I'm nt good with it, but it's making me happy
+I'm not good with it, but it's making me happy
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=godot,cs" alt="My Skills at electronic" />
